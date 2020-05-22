@@ -1,17 +1,17 @@
 # csci_340_operating-systems
 
-# When 
+## When 
 TuTh 9:50AM-12:58PM 
 
-# Who
-Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
-Students from Hunter college
+## Who
+- Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
+- Students from Hunter college
 
-# [Textbook online resources](https://os-book.com/OS10/index.html)
+## [Textbook online resources](https://os-book.com/OS10/index.html)
 
-# [Slides](./slides)
+## [Slides](./slides)
 
-# [Assignments](./assignments)
+## [Assignments](./assignments)
 
 
 
