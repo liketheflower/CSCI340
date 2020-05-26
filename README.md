@@ -23,6 +23,11 @@ https://meet.google.com/rcb-mkhg-joh
 
 ## [Assignments](./assignments)
 
+## How to
+- [Apply a github account](https://github.com/)
+- [Download git](https://git-scm.com/downloads)
+
+
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
 - [Computer Science Department Network Help and Guidelines](http://www.compsci.hunter.cuny.edu/~csdir/)
