@@ -19,7 +19,9 @@ https://meet.google.com/rcb-mkhg-joh
 
 ## [Assignments](./assignments)
 
-## [Blackboard login](http://bbhosted.cuny.edu/)
+## Other useful links 
+- [Blackboard login](http://bbhosted.cuny.edu/)
+- [Computer Science Department Network Help and Guidelines](http://www.compsci.hunter.cuny.edu/~csdir/)
 
 
 
