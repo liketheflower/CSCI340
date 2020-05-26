@@ -10,7 +10,10 @@ https://meet.google.com/rcb-mkhg-joh
 - Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
 - Students from Hunter college
 
-## [Textbook online resources](https://os-book.com/OS10/index.html)
+## [Textbook and online resources](https://os-book.com/OS10/index.html)
+
+## What chapters will be talked from the textbook:
+[What will be talked](https://os-book.com/OS10/syllabi-dir/typical.html)
 
 ## [Slides](./slides)
 
