@@ -28,4 +28,12 @@ https://meet.google.com/rcb-mkhg-joh
 - [Computer Science Department Network Help and Guidelines](http://www.compsci.hunter.cuny.edu/~csdir/)
 - [another helper link about how to use HC's lab resources and how to get help](http://www.hunter.cuny.edu/csci/for-students/general-computing-information)
 
+## Software Engineering
+- [LeetCode](https://leetcode.com/)
+- [AtCoder](https://atcoder.jp/)
+- [CodeForce](https://codeforces.com/)
+- [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Aoxiang Cui](https://www.youtube.com/channel/UCDVYMs-SYiJxhIU2T0e7gzw)
+
 
