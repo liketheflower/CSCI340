@@ -26,6 +26,7 @@ https://meet.google.com/rcb-mkhg-joh
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
 - [Computer Science Department Network Help and Guidelines](http://www.compsci.hunter.cuny.edu/~csdir/)
+- [another helper link about how to use HC's lab resources and how to get help](http://www.hunter.cuny.edu/csci/for-students/general-computing-information)
 
 
 
