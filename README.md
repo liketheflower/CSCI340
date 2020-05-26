@@ -29,4 +29,3 @@ https://meet.google.com/rcb-mkhg-joh
 - [another helper link about how to use HC's lab resources and how to get help](http://www.hunter.cuny.edu/csci/for-students/general-computing-information)
 
 
-
