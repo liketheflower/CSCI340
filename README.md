@@ -4,7 +4,10 @@
 TuTh 9:50AM-12:58PM 
 
 ## Google Meeting Link 
+May 26's google meet link
 https://meet.google.com/rcb-mkhg-joh
+May 28's google meet link
+https://meet.google.com/zcj-jmha-owj
 
 ## Who
 - Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
