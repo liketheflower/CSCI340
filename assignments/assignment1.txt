@@ -1,0 +1,39 @@
+# Assignment 1 (It will be graded)
+Grading Rubric:
+based on correctness + late penalty based on the syllabus
+Due time: June 3, 11:59 pm (We have one class before that time, remember to ask me the question at the beginning of the class if you have any)
+How to submit: please submit it to black board. You can either copy and paste the assignment to any editor you like such as word or google document or keeping on using this text editor
+A.  Basic linux commands (30)
+Remote login to CS lab
+ssh to Hunter College CS lab by following the instruction shared on our Github Repo. Here are the commands that I used for reference.
+ssh Xiaoke.Shen54@eniac.cs.hunter.cuny.edu
+ssh Xiaoke.Shen54@cslab15
+Type these commands and collect the output from the terminal based on following commands:
+1) pwd
+2) ls
+3) whoami
+4) df -h
+5) vi /etc/os-release
+for d) if you are using vim, you can use that command. If you are using another editor, feel free to use your editor. If you don't know how to open the file in the Linux terminal, search on google by using  keywords: "linux terminal editor" to find your way to get started to use the terminal editor.
+
+
+B /Proc (30)
+If you don't know what is Proc, check this one:https://en.wikipedia.org/wiki/Procfs
+ Linux makes it easy to explore the current state of the operating system and all of its processes through a pseudo-filesystem named /proc. The /proc filesystem is an interface to kernel data structures. If you login to any of the cslab hosts in our network, you can view the contents of various files in the /proc directory. One file there that rarely changes, is cpuinfo, which contains information about the cpus of the given host. Look at this file on the following hosts: cslab12, and cslab15 and answer the following questions. (you can go to /proc folder by this command "cd /proc", you can open the file by this command "vi cpuinfo" if you are using vim)
+1) For each host, how many processors does it have?
+2) For each host, what is the processor model name? (They are all the same in any given machine.)
+3)  For each host, how many kilobytes of capacity are in each core's cache?
+
+C: pid 1 (20)
+The /proc directory has a directory for every running user process, named by its process id (pid), as well as a directory for the process with pid 1, which is in Linux is called either init or systemd, depending on the version of Linux that you have. It is the ancestor of all user processes. Every one of these directories in /proc has a le named limits that contains the process's resource limits. Answer the questions below in the boxes provided for the process with pid 1.
+1) What is the maximum number of processes that it can have?
+2) How many kilobytes is its maximum stack size soft limit?
+
+D Ubuntu Source code (20)
+Professor Stewart Weiss has cloned the most recent stable release of the Ubuntu kernel source code in the directory /data/biocs/b/ubuntu/bionic/ on the Computer Science Department's server, eniac.cs.hunter.cuny.edu, to which everyone has access.
+1) go to that folder, run the following command, and collect the output:
+git remote -v
+2) Read the article here https://en.wikipedia.org/wiki/Ubuntu_version_history
+Figure out what is the Ubuntu version of this source code?
+
+
