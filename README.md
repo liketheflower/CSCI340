@@ -17,7 +17,7 @@ https://meet.google.com/zcj-jmha-owj
 ## [Textbook and online resources](https://os-book.com/OS10/index.html)
 
 ## Where to buy the textbook?
-- [AMZON about 70$](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)
+- [AMAZON about 70$](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)
 - [pdf4colleges ebook about 18.9$](https://pdf4colleges.com/Operating-System-Concepts-10th-Edition-by-Abraham-Silberschatz-Ebook-PDF-Version-p123241290?gclid=CjwKCAjw2a32BRBXEiwAUcugiB0OKJt_5Ya4i0BUk6vzUVLiBmTFeNN0af1hRdJnP9a_IQ1ugFcSWhoC5zUQAvD_BwE)
 - Others: Talk with your classmates to see whehter you can find any good place to buy a more affordable one.
 ## What chapters will be talked from the textbook:
@@ -32,6 +32,9 @@ https://meet.google.com/zcj-jmha-owj
 - [Download git](https://git-scm.com/downloads)
 - [remote loging to HC's linux computers](http://www.compsci.hunter.cuny.edu/~csdir/Remotely%20logging%20Into%20Computer%20Science%20Subnet.pdf)
 
+
+## About Ubuntu
+- [Ubuntu version history](https://en.wikipedia.org/wiki/Ubuntu_version_history)
 
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
