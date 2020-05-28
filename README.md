@@ -35,6 +35,7 @@ https://meet.google.com/zcj-jmha-owj
 
 ## About Ubuntu
 - [Ubuntu version history](https://en.wikipedia.org/wiki/Ubuntu_version_history)
+- [how to download Ubuntu source code](https://wiki.ubuntu.com/Kernel/SourceCode)
 
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
