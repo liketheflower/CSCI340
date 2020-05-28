@@ -30,6 +30,7 @@ https://meet.google.com/zcj-jmha-owj
 ## How to
 - [Apply a github account](https://github.com/)
 - [Download git](https://git-scm.com/downloads)
+- [remote loging to HC's linux computers](http://www.compsci.hunter.cuny.edu/~csdir/Remotely%20logging%20Into%20Computer%20Science%20Subnet.pdf)
 
 
 ## Other useful links 
