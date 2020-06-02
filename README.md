@@ -61,6 +61,7 @@ https://meet.google.com/zcj-jmha-owj
 - [Ubuntu version history](https://en.wikipedia.org/wiki/Ubuntu_version_history)
 - [how to download Ubuntu source code](https://wiki.ubuntu.com/Kernel/SourceCode)
 - [proc - process information pseudo-filesystem](http://manpages.ubuntu.com/manpages/bionic/man5/proc.5.html)
+- [Ubuntu release cycle](https://ubuntu.com/about/release-cycle)
 
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
