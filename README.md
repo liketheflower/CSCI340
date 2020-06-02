@@ -3,12 +3,33 @@
 ## When 
 TuTh 9:50AM-12:58PM 
 
-## Google Meeting Link 
+## ZOOM
+Join Zoom Meeting
+https://huntercollege.zoom.us/j/92218866841?pwd=NnBpRjkvNVZocTNHODB5eDhtaXRLQT09
+
+Meeting ID: 922 1886 6841
+Password: 340
+One tap mobile
++19294362866,,92218866841#,,1#,340# US (New York)
++13126266799,,92218866841#,,1#,340# US (Chicago)
+
+Dial by your location
+        +1 929 436 2866 US (New York)
+        +1 312 626 6799 US (Chicago)
+        +1 301 715 8592 US (Germantown)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+Meeting ID: 922 1886 6841
+Password: 340
+Find your local number: https://huntercollege.zoom.us/u/abTzjjfDqQ  
+## Google Meeting Link (NOT USED ANYMORE)
 - May 26's google meet link
 https://meet.google.com/rcb-mkhg-joh   
 
 - May 28's google meet link  
 https://meet.google.com/zcj-jmha-owj
+
 
 ## Who
 - Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
