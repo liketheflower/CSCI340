@@ -62,6 +62,10 @@ https://meet.google.com/zcj-jmha-owj
 - [how to download Ubuntu source code](https://wiki.ubuntu.com/Kernel/SourceCode)
 - [proc - process information pseudo-filesystem](http://manpages.ubuntu.com/manpages/bionic/man5/proc.5.html)
 - [Ubuntu release cycle](https://ubuntu.com/about/release-cycle)
+- [GNU wiki](https://en.wikipedia.org/wiki/GNU)
+- [GNOME wiki](https://en.wikipedia.org/wiki/Ubuntu_GNOME)
+- [GNOME](https://www.gnome.org/)
+- [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
