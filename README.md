@@ -16,15 +16,15 @@ One tap mobile
 +13126266799,,92218866841#,,1#,340# US (Chicago)  
 
 Dial by your location  
-        +1 929 436 2866 US (New York)
-        +1 312 626 6799 US (Chicago)
-        +1 301 715 8592 US (Germantown)
-        +1 669 900 6833 US (San Jose)
-        +1 253 215 8782 US (Tacoma)
-        +1 346 248 7799 US (Houston)
-Meeting ID: 922 1886 6841  
-Password: 340  
-Find your local number: https://huntercollege.zoom.us/u/abTzjjfDqQ    
+        +1 929 436 2866 US (New York)  
+        +1 312 626 6799 US (Chicago)  
+        +1 301 715 8592 US (Germantown)  
+        +1 669 900 6833 US (San Jose)  
+        +1 253 215 8782 US (Tacoma)  
+        +1 346 248 7799 US (Houston)  
+Meeting ID: 922 1886 6841    
+Password: 340    
+Find your local number: https://huntercollege.zoom.us/u/abTzjjfDqQ      
 ## Google Meeting Link (NOT USED ANYMORE)
 - May 26's google meet link
 https://meet.google.com/rcb-mkhg-joh   
