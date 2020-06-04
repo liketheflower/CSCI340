@@ -35,6 +35,7 @@ https://meet.google.com/zcj-jmha-owj
 
 ## Who
 - Instructor: [Xiaoke(Jimmy Shen) Shen](https://xiaokeshen.github.io/)
+- TA: Nigel Ferrer Nigel.Ferrer64@myhunter.cuny.edu
 - Students from Hunter college
 
 ## [Textbook and online resources](https://os-book.com/OS10/index.html)
