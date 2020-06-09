@@ -1,7 +1,7 @@
 # Assignment 3 (It will be graded)
 Grading Rubric:
 based on correctness + late penalty based on the syllabus
-Due time: June 20, 11:59 pm (We have one class before that time, remember to ask me the question at the beginning of the class if you have any)
+Due time: June 26, 11:59 pm (We have one class before that time, remember to ask me the question at the beginning of the class if you have any)
 How to submit: please submit it to black board. You can either copy and paste the assignment to any editor you like such as word or google document or keeping on using this text editor
 
 A: Project 1 of chapter 4 (50 points)
