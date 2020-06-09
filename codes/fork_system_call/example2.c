@@ -8,9 +8,9 @@ int main()
 
 	// make two process which run same 
 	// program after this instruction 
-	int pid = fork(); 
+	pid_t pid = fork(); 
         printf("pid is %d\n",pid);
-	int pid1 = fork(); 
+	pid_t pid1 = fork(); 
         printf("pid1 is %d\n",pid1);
 	printf("Hello world!\n"); 
 	return 0; 
