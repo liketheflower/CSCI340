@@ -38,6 +38,9 @@ https://meet.google.com/zcj-jmha-owj
 - TA: Nigel Ferrer Nigel.Ferrer64@myhunter.cuny.edu
 - Students from Hunter college
 
+## Schedule  
+[Course Schedule](https://docs.google.com/document/d/1OBC6Yl8nCUUn9-Mf3ig9jZP3dslLeGF4MtBW9ky8XKM/edit?usp=sharing)
+
 ## [Textbook and online resources](https://os-book.com/OS10/index.html)
 
 ## Where to buy the textbook?
