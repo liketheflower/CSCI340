@@ -20,7 +20,7 @@ ssh to your local virtual machine
 ```
 ssh -p 2222 osc@127.0.0.1
 ```
-### regula login the virtual machine  
+### regular login the virtual machine  
 You will go to the terminal and you can find something like this  
 [virtual machine login](./vm.png)
 
