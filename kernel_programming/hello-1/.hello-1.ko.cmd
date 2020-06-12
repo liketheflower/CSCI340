@@ -1,0 +1,1 @@
+cmd_/home/osc/repos/CSCI340/kernel_programming/hello-1/hello-1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/repos/CSCI340/kernel_programming/hello-1/hello-1.ko /home/osc/repos/CSCI340/kernel_programming/hello-1/hello-1.o /home/osc/repos/CSCI340/kernel_programming/hello-1/hello-1.mod.o
