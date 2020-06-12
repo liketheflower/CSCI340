@@ -76,6 +76,13 @@ https://meet.google.com/zcj-jmha-owj
 - [Computer Science Department Network Help and Guidelines](http://www.compsci.hunter.cuny.edu/~csdir/)
 - [another helper link about how to use HC's lab resources and how to get help](http://www.hunter.cuny.edu/csci/for-students/general-computing-information)
 
+
+## Github Tips  
+[How to fix Git always asking for user credentials](https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/)
+A quick solution: 
+```
+git config --global credential.helper 'cache --timeout=6000'
+```
 ## Software Engineering
 - [LeetCode](https://leetcode.com/)
 - [AtCoder](https://atcoder.jp/)
