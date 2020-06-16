@@ -71,6 +71,7 @@ https://meet.google.com/zcj-jmha-owj
 - [GNOME wiki](https://en.wikipedia.org/wiki/Ubuntu_GNOME)
 - [GNOME](https://www.gnome.org/)
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [Ubuntu system calls](http://manpages.ubuntu.com/manpages/bionic/man2/syscalls.2.html)
 - [How to broswer the source code of linux](https://elixir.bootlin.com/linux/v4.15.18/source/include/uapi/linux/sched.h#L37)
 
 ## Other useful links 
