@@ -73,6 +73,7 @@ https://meet.google.com/zcj-jmha-owj
 - [Command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 - [Ubuntu system calls](http://manpages.ubuntu.com/manpages/bionic/man2/syscalls.2.html)
 - [How to broswer the source code of linux](https://elixir.bootlin.com/linux/v4.15.18/source/include/uapi/linux/sched.h#L37)
+- [Priority and Nice](https://www.tecmint.com/set-linux-process-priority-using-nice-and-renice-commands/#:~:text=From%20the%20top%20and%20htop,seen%20by%20the%20Linux%20kernel.)
 
 ## Other useful links 
 - [Blackboard login](http://bbhosted.cuny.edu/)
