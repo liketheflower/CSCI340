@@ -59,6 +59,7 @@ https://meet.google.com/zcj-jmha-owj
 - [Download git](https://git-scm.com/downloads)
 - [remote loging to HC's linux computers](http://www.compsci.hunter.cuny.edu/~csdir/Remotely%20logging%20Into%20Computer%20Science%20Subnet.pdf)
 - [use vim](https://vim.rtorr.com/)
+- [Makefile](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)
 
 
 ## About Ubuntu
