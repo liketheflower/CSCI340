@@ -1,0 +1,16 @@
+# Extra credit assignment (It is optional and it will be graded)
+Grading Rubric:
+based on correctness/completeness + late penalty based on the syllabus
+Due time: July 5, 11:59 pm
+How to submit: please submit it to black board. 
+
+Read and explain the source code of linux kernel v4.15.18. You can get it from this link
+https://elixir.bootlin.com/linux/v4.15.18/source
+
+1) Read and explain the 
+struct rq
+Please explain each line of this struct.
+It is in "kernel/sched/sched.h, line 683"
+2)  read the source code of __schedule function, try to explain this source code. For this one, you do not need to explain each line. 
+Read it and explain what is done for this function.
+It is in "Open Menu /kernel/sched/core.c line 3288"

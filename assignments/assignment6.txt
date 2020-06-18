@@ -1,0 +1,33 @@
+# Assignment 6 (It will be graded)
+Grading Rubric:
+based on correctness + late penalty based on the syllabus
+Due time: July 3, 11:59 pm
+How to submit: please submit it to black board. 
+
+A:
+1) For slides page 14 (chapter 6,) of "Algorithm for Process Pi", it is talking about the Peterson’s Solution. 
+Explain step by step for the code shown in page 14 about why the Peterson’s Solution can preserve Mutual exclusion. (20 points)
+You should use two cases to explain: 
+case 1: step by step of Pi's using critical section process when Pj is not in the critical section. 
+case 2: step by step of Pi's using critical section process when Pj is in the critical section. 
+2) What is reorder? (5 points)
+3) For page 19 of chapter 6, explain why reorder will destroy Mutual exclusion. (10 points)
+
+
+B:  
+1) What is the relationship between Semaphore and Mutex? (10 points)
+2) P37 of chapter 6, step by step explain why the semaphore can make sure S1 to happen before S2. (10 points)
+3) P58 of chapter 6, explain why P0 and P1 are deadlocked? (10 points)
+
+C: (15 points)
+Page 5 and page 6 of chapter 7, explain the Bounded-Buffer producer and consumer process.
+
+
+D: (20 points)
+1) Page 13 of chapter 7, "Dining-Philosophers Problem Algorithm", may we have deadlock for this algorithm? If so explain the detail when we have 5 Philosophers
+
+
+
+
+
+
