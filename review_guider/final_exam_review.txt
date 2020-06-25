@@ -1,0 +1,51 @@
+Multiple choice questions
+
+Regular questions similar to our homework assignments, however, no coding.
+
+
+Chapter 3 
+Process Creation process especially for the fork() system call 
+
+
+
+chapter 4
+Amdahl’s Law 
+
+
+Chapter 5:
+FCFS, RR
+Priority based algorithm
+NICE value
+Completely Fair Scheduler (CFS)? 
+
+Chapter 6/7: already covered in the assignments
+
+Chapter 8:
+Deadlock's four conditions
+Well understand the Resource Allocation Graph
+relationship between having cycles and deadlock
+Banker’s Algorithm? 
+
+Chapter 9:
+First fit, best fit and worst fit 
+Phycial and virtual memory
+Paging
+
+Chapter 10:
+LRU Algorithm
+
+Others:
+Some common used linux comands:
+cp, mv,  mkdir
+ls
+ps
+top/htop
+du -hsc *
+df -h
+pstree
+whoami
+
+
+
+
+
