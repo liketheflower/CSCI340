@@ -23,20 +23,19 @@ Chapter 6/7: already covered in the assignments
 Chapter 8:
 Deadlock's four conditions
 Well understand the Resource Allocation Graph
-relationship between having cycles and deadlock
 Banker’s Algorithm? 
 
 Chapter 9:
 First fit, best fit and worst fit 
 Phycial and virtual memory
-Paging
+Paging processing
 
 Chapter 10:
-LRU Algorithm
+FIFO, optimal algorithm, LRU Algorithm
 
 Others:
 Some common used linux comands:
-cp, mv,  mkdir
+cp, mv, rm, mkdir
 ls
 ps
 top/htop
