@@ -4,8 +4,12 @@ based on correctness/completeness + late penalty based on the syllabus
 Due time: July 5, 11:59 pm
 How to submit: please submit it to black board. 
 
-Read and explain the source code of linux kernel v4.15.18. You can get it from this link
+Task description (please read what you should do to be clear about the requirement of this assignment)
+
+Read and explain part of the source code (PLEASE read 1) and 2) in the following) of linux kernel v4.15.18. You can get it from this link
 https://elixir.bootlin.com/linux/v4.15.18/source
+
+What you should do?
 
 1) Read and explain the 
 struct rq
